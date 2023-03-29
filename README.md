@@ -1,3 +1,11 @@
+# Jest & React Testing Library Tutorial
+
+This repository has jest & RTL Tutorial.
+
+If you run the app, you can show example of login page.
+
+You can see how to use RTL APIs and msw APIs.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
